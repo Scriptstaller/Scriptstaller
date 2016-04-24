@@ -7,3 +7,6 @@ Dev
 ---
 
 [![InstallIcon](https://img.shields.io/badge/Install-Scriptstaller-brightred.svg?style=flat-square)](https://raw.githubusercontent.com/Scriptstaller/Scriptstaller/master/dev/Scriptstaller.user.js)
+
+Legacy
+---
