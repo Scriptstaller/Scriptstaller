@@ -11,4 +11,4 @@
 // @grant        none
 // ==/UserScript==
 
-Console.write("Scriptstaller ready!");
+console.log("Scriptstaller ready!");
