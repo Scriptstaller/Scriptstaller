@@ -1,14 +1,15 @@
 // ==UserScript==
-// @name         Scriptstaller
+// @name         Scriptstaller Dev
 // @namespace    scriptstaller.github.io
 // @version      0.0.0.1
 // @description  Better script installing for Tampermonkey.
 // @author       Scriptstaller | scriptstaller.github.io
-// @updateURL    https://raw.githubusercontent.com/Scriptstaller/Scriptstaller/master/stable/Scriptstaller.js
-// @downloadURL  https://raw.githubusercontent.com/Scriptstaller/Scriptstaller/master/stable/Scriptstaller.js
+// @updateURL    https://raw.githubusercontent.com/Scriptstaller/Scriptstaller/master/dev/Scriptstaller.js
+// @downloadURL  https://raw.githubusercontent.com/Scriptstaller/Scriptstaller/master/dev/Scriptstaller.js
 // @match        http://*/*
 // @match        https://*/*
 // @grant        none
 // ==/UserScript==
 
+console.log("CAUTION! You are using a developer build of Scriptstaller.");
 console.log("Scriptstaller ready!");
