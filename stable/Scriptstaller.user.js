@@ -4,8 +4,8 @@
 // @version      0.0.0.1
 // @description  Better script installing for Tampermonkey.
 // @author       Scriptstaller | scriptstaller.github.io
-// @updateURL    https://raw.githubusercontent.com/Scriptstaller/Scriptstaller/master/stable/Scriptstaller.js
-// @downloadURL  https://raw.githubusercontent.com/Scriptstaller/Scriptstaller/master/stable/Scriptstaller.js
+// @updateURL    https://raw.githubusercontent.com/Scriptstaller/Scriptstaller/master/stable/Scriptstaller.user.js
+// @downloadURL  https://raw.githubusercontent.com/Scriptstaller/Scriptstaller/master/stable/Scriptstaller.user.js
 // @match        http://*/*
 // @match        https://*/*
 // @grant        none
