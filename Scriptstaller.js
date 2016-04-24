@@ -10,3 +10,4 @@
 // @grant        none
 // ==/UserScript==
 
+Console.write("Scriptstaller ready!");
