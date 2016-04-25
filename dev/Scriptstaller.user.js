@@ -13,3 +13,6 @@
 
 console.log("CAUTION! You are using a developer build of Scriptstaller.");
 console.log("Scriptstaller ready!");
+
+navigator.registerProtocolHandler(
+    'web+test', 'http://example.com/rph?q=%s', 'My App');
